@@ -1,4 +1,5 @@
 # ios_filter_-duplicate_events
 利用延迟执行过滤重复事件
-![WeChat1690b1ba1cc74c1dcfe5cc7c63aea9b3](https://user-images.githubusercontent.com/26602893/129438606-10815c56-f265-41a2-b70c-ca552eb0c51f.png)
-![WeChata14e40c34a8a6cbb70ca9676a9705fff](https://user-images.githubusercontent.com/26602893/129438620-a4a22d1c-90cc-4efa-95cc-261793f976ee.png)
+![WeChat27e75f302e83822ef94e5137fce1cc2d](https://user-images.githubusercontent.com/26602893/129438636-84fe0a36-7bcf-41cc-9945-10403b1b9524.png)
+![WeChat73497b2a06e0923d31d30bdc70129fff](https://user-images.githubusercontent.com/26602893/129438650-64edeefa-109e-4686-a700-90ef039620d2.png)
+
